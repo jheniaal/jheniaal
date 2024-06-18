@@ -1,4 +1,4 @@
-## <a title="Símbolos" href="https://pt.piliapp.com/emoji/list/?skin=1f3fd#symbols" class="active">✅</a>
+## <a href="https://pt.piliapp.com/emoji/list/?skin=1f3fd" class="active"></a>
 
 Meu nome é Jhennifer, sou dançarina profissional e gosto muito de música e escrita :)
 
